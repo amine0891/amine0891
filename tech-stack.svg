@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="54" viewBox="0 0 780 54" role="img" aria-label="Python, Streamlit, Jupyter et JavaScript">
+ <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1">
+  <rect x="1" y="5" width="166" height="42" rx="9" fill="#14253d" stroke="#29445e"/>
+  <circle cx="25" cy="26" r="5" fill="#7dd3fc"/><text x="45" y="32" fill="#dcecff">PYTHON</text>
+  <rect x="179" y="5" width="190" height="42" rx="9" fill="#14253d" stroke="#29445e"/>
+  <circle cx="203" cy="26" r="5" fill="#fb7185"/><text x="223" y="32" fill="#dcecff">STREAMLIT</text>
+  <rect x="381" y="5" width="174" height="42" rx="9" fill="#14253d" stroke="#29445e"/>
+  <circle cx="405" cy="26" r="5" fill="#fb923c"/><text x="425" y="32" fill="#dcecff">JUPYTER</text>
+  <rect x="567" y="5" width="211" height="42" rx="9" fill="#14253d" stroke="#29445e"/>
+  <circle cx="591" cy="26" r="5" fill="#fde047"/><text x="611" y="32" fill="#dcecff">JAVASCRIPT</text>
+ </g>
+</svg>

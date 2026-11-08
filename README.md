@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amine0891?tab=repositories"><img src="https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="Découvrir mes projets" /></a>
+  <a href="https://github.com/amine0891?tab=repositories"><b>Explorer mes projets →</b></a>
 </p>
 
 ---
@@ -23,12 +23,7 @@ J’aime relier le code à un cas d’usage concret, avec une place particulièr
 
 ### Ma boîte à outils
 
-<p>
-  <img src="https://img.shields.io/badge/Python-14253d?style=for-the-badge&amp;logo=python&amp;logoColor=7dd3fc" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-14253d?style=for-the-badge&amp;logo=streamlit&amp;logoColor=fb7185" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Jupyter-14253d?style=for-the-badge&amp;logo=jupyter&amp;logoColor=fb923c" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/JavaScript-14253d?style=for-the-badge&amp;logo=javascript&amp;logoColor=fde047" alt="JavaScript" />
-</p>
+<p><img src="tech-stack.svg" alt="Python · Streamlit · Jupyter · JavaScript" width="780" /></p>
 
 ### Projets à découvrir
 
@@ -69,4 +64,5 @@ J’aime relier le code à un cas d’usage concret, avec une place particulièr
   <b>Une idée, des données, un projet à construire ?</b><br />
   Retrouvez mon travail dans <a href="https://github.com/amine0891?tab=repositories">mes dépôts GitHub</a>.
 </p>
+
 
