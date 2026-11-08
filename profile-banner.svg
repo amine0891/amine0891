@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="amine0891 — Data, code et machine learning">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e20"/><stop offset="1" stop-color="#141333"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#55e6eb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#91a4d4" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M48 0H1232" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="1080" cy="185" r="128" fill="none" stroke="#a78bfa" stroke-opacity=".12"/>
+  <circle cx="1080" cy="185" r="93" fill="none" stroke="#55e6eb" stroke-opacity=".15" stroke-dasharray="4 10"/>
+  <g fill="none" stroke="#6478a7" stroke-width="1.5" opacity=".55">
+    <path d="M924 238L985 138L1080 185L1143 91M985 138L1070 77L1189 213L1080 185L1129 286L985 138M924 238L1080 185L1189 213L1129 286"/>
+  </g>
+  <g fill="#55e6eb"><circle cx="924" cy="238" r="6"/><circle cx="985" cy="138" r="9"/><circle cx="1080" cy="185" r="13"/></g>
+  <g fill="#a78bfa"><circle cx="1070" cy="77" r="6"/><circle cx="1143" cy="91" r="6"/><circle cx="1189" cy="213" r="8"/><circle cx="1129" cy="286" r="7"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="70" y="80" fill="#7ddfe8" font-size="14" font-weight="600" letter-spacing="4">DATA · CODE · MACHINE LEARNING</text>
+    <text x="66" y="172" fill="#f0f4ff" font-size="76" font-weight="750" letter-spacing="-3">amine0891<tspan fill="#55e6eb">.</tspan></text>
+    <text x="70" y="224" fill="#bac5de" font-size="25">Des données aux applications.</text>
+    <rect x="70" y="266" width="113" height="33" rx="16" fill="#152e40" stroke="#27505f"/>
+    <text x="126" y="288" text-anchor="middle" fill="#7de5ea" font-size="13">PYTHON</text>
+    <rect x="195" y="266" width="160" height="33" rx="16" fill="#23213e" stroke="#443a66"/>
+    <text x="275" y="288" text-anchor="middle" fill="#c5b1ff" font-size="13">DATA ANALYSIS</text>
+    <rect x="367" y="266" width="113" height="33" rx="16" fill="#152e40" stroke="#27505f"/>
+    <text x="423" y="288" text-anchor="middle" fill="#7de5ea" font-size="13">MLOPS</text>
+  </g>
+</svg>
